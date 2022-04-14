@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning PYTHON, HTML, CSS, JAVASCRIPT
 - 🤔 Studing English and Japanese
-- 🔭 Student of Software Engineer
+- 🔭 Software Engineer Student
 - ⚡ Trying to be a better person each day....
 - ⚡ Love Arts, Games, Drawing....
 
