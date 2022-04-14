@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python
-- ⚡ Studing Software Engineer
+- 🌱 I’m currently learning PYTHON, HTML, CSS, JAVASCRIPT
+- 🤔 Studing English and Japanese
+- 🔭 Student of Software Engineer
+- ⚡ Trying to be a better person each day....
+- ⚡ Love Arts, Games, Drawing....
+
 
 
 <div align="center">
