@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
 
 - 🌱 I’m currently learning PYTHON, HTML, CSS, JAVASCRIPT
 - 🤔 Studing English and Japanese
@@ -22,13 +23,18 @@ Here are some ideas to get you started:
 - ⚡ Love Arts, Games, Drawing....
 
 
+##
+
+<br />
 
 <div align="center">
   <a href="https://github.com/DaniMiyuki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=panda"/>
 </div>
-<div style="display: flex" style="flex-wrap:nowrap" ><br>
+<div style="display: inline_block" ><br>
+  
+  <br/>
   
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,6 +49,7 @@ Here are some ideas to get you started:
  
 <div> 
 
+  <br/>
    
   <a href="https://www.linkedin.com/in/dani-miyuki-464641233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
