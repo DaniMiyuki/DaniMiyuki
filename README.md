@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 <br />
 
-- 🌱 I’m currently learning PYTHON, HTML, CSS, JAVASCRIPT
-- 🌱 Introducing LINUX, MYSQL, MONGODB, NEO4J, JAVA, TYPESCRIPT, NOJEJS, ANGULAR... 
+- 🌱 I’m currently learning
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] Python
+- [ ] Java
+- [ ] 
 - 🤔 Studing English and Japanese
 - 🔭 Software Engineer Student
 - ⚡ Trying to be a better person each day....
