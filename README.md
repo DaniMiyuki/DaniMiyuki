@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 <br />
 
 - 🌱 I’m currently learning
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
-- [ ] Python
-- [ ] Java
-- [ ] 
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Python
+- [x] Java
+- [x] C#
+      
 - 🤔 Studing English and Japanese
 - 🔭 Software Engineer Student
 - ⚡ Trying to be a better person each day....
