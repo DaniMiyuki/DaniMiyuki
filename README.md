@@ -14,23 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
 
-- 🌱 I’m currently learning
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] Python
-- [x] Java
-- [x] C#
-      
-- 🤔 Studing English and Japanese
-- 🔭 Software Engineer Student
-- ⚡ Trying to be a better person each day....
-- ⚡ Love Arts, Games, Drawing....
-
-
-##
 
 <br />
 
@@ -40,16 +24,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=panda"/>
 </div>
 <div style="display: inline_block" ><br>
-  
-  <br/>
-  
-  <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dani-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
 </div>
   
   ##
