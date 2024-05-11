@@ -1,11 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kanayama%20Miyuki&fontAlignY=33&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I`m+a+Software+Engineer+Student;I+live+in+Japan!&color=ff3399)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=I`m+a+Software+Engineer+Student;I+live+in+Japan!&color=ff3399)](https://git.io/typing-svg)
 
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniMiyuki&color=green" alt="Profile Views" /></p>
-
 
 
 <!--
@@ -33,11 +30,10 @@ Here are some ideas to get you started:
 </div>
 <div style="display: inline_block" ><br>
 </div>
-  
-  ##
+    
+  ## <p align="right"> <img src="https://komarev.com/ghpvc/?username=DaniMiyuki&color=green" alt="Profile Views" /></p>
  
 <div> 
-
 
   ## :hammer_and_wrench: Tech Stacks
   
@@ -68,7 +64,7 @@ Here are some ideas to get you started:
   
   ##
   
-  <div align="right">
+  <div align="left">
     
   > "Success is the sum of small efforts, repeated" -R Coller
 
