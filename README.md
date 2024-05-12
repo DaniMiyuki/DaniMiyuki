@@ -41,12 +41,19 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
   ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=BootStrap) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+  ![ThreeJS](https://img.shields.io/badge/-ThreeJS-05122A?style=flat&logo=Three.JS&logoColor=yellow) 
+  ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery&logoColor=yellow) 
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=Node.JS&logoColor=yellow) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript) 
   ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=e600ac) 
   ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=00b359)
   ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=00b359) 
+  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas) 
+  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask) 
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=ff6600) 
   ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) 
   ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=9966ff) 
+  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.NET) 
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL) 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
@@ -54,7 +61,7 @@ Here are some ideas to get you started:
   ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity) 
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker) 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git) 
-
+  
  
  <br/>
    
