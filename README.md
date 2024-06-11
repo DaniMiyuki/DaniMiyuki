@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kanayama%20Miyuki&fontAlignY=33&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HELLO,%20WORLD!!&fontAlignY=33&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=I`m+a+Software+Engineer+Student;I+live+in+Japan!&color=ff3399)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuki!!;A+Software+Engineer+Student!&color=ff3399)](https://git.io/typing-svg)
 
 <br>
 
