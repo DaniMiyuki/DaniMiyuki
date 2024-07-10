@@ -1,7 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HELLO,%20WORLD!!&fontAlignY=33&animation=twinkling"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuki!!;A+Software+Engineer+Student!&color=ff3399)](https://git.io/typing-svg)
 
+<div align="center"; margin: 10px;">
+  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
+    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+  </a>
+  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
+    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+  </a>
+  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
+    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+  </a>
+  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
+    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+  </a>
+</div>
 <br>
 
 
@@ -29,6 +41,13 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=panda"/>
 </div>
 <div style="display: inline_block" ><br>
+</div>
+
+<div align="center"; margin: 10px;">
+  <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
+    <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
+  </a>
+  <p style="margin: 0; font-size:50px;">Keep calm and code on</p>
 </div>
     
   ## 
