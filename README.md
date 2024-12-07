@@ -33,22 +33,66 @@ Here are some ideas to get you started:
 -->
 
 
+  <div align="center">
+    <h3>✨ Favorite stacks ✨</h3>
+  </div>
+</div>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GIF -->
+  <div style="display: inline-block;">
+    <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
+      <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
+    </a>
+    <p style="margin: 0; font-size: 20px;">Keep calm and code on</p>
+  </div>
+
+  <!-- Ícones -->
+  <div style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  </div>
+</div>
+
+
 <br/>
 
 <div align="center">
   <a href="https://github.com/DaniMiyuki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-experience/?username=DaniMiyuki&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block" ><br>
 </div>
-
-<div align="center"; margin: 10px;">
-  <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
-    <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
+    
+<div align="center">
+  <a href="https://gist.github.com/Yizack/65c143709afa7ea612f3578c6aeec732/">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=65c143709afa7ea612f3578c6aeec732&theme=jolly" alt="Gist Card" />
   </a>
-  <p style="margin: 0; font-size:50px;">Keep calm and code on</p>
 </div>
+
+
+ 
+
+##
+
+<div align="center">
+  <h3>🐍 Cobrinhas comendo contribuições!</h3>
+  <img src="https://github.com/DaniMiyuki/DaniMiyuki/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 
+
+<div align="center">
+  <h3>🏆 My GitHub Trophy</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=DaniMiyuki&theme=tokyonight&column=9"/>
+</div>
+
     
   ## 
  
@@ -87,6 +131,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/dani-miyuki-464641233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ##
+
   
   <div align="left">
     
