@@ -1,21 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuki!!;A+Software+Engineer+Student!&color=ff3399)](https://git.io/typing-svg)
-
-<div align="center"; margin: 10px;">
-  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
-    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
-  </a>
-  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
-    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
-  </a>
-  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
-    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
-  </a>
-  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
-    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
-  </a>
-</div>
-<br>
-
 
 <!--
 **DaniMiyuki/DaniMiyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,37 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-  <div align="center">
-    <h3>✨ Favorite stacks ✨</h3>
-  </div>
+<div align="center"; margin: 10px;">
+  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
+    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+  </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!-- GIF -->
-  <div style="display: inline-block;">
-    <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
-      <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
-    </a>
-    <p style="margin: 0; font-size: 20px;">Keep calm and code on</p>
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuki!!;A+Software+Engineer+Student!&color=ff3399)](https://git.io/typing-svg)
 
-  <!-- Ícones -->
-  <div style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  </div>
-</div>
-
-
-<br/>
-
+<!-- STATUS -->
 <div align="center">
+<h3 align="center">
+  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+  Dashboard...................................................
+  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+</h3>
+
+
   <a href="https://github.com/DaniMiyuki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=jolly"/>
@@ -76,27 +44,32 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
- 
-
-##
-
-<div align="center">
-  <h3>🐍 Cobrinhas comendo contribuições!</h3>
-  <img src="https://github.com/DaniMiyuki/DaniMiyuki/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## 
-
-<div align="center">
-  <h3>🏆 My GitHub Trophy</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=DaniMiyuki&theme=tokyonight&column=9"/>
-</div>
-
-    
-  ## 
  
 <div> 
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div align="center"><br>
+    <h3>✨ Favorite stacks ✨</h3>
+  </div>
+  <!-- GIF -->
+  <div style="display: inline-block;">
+    <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
+      <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
+    </a>
+    <p style="margin: 0; font-size: 20px;">Keep calm and code on</p>
+  </div>
+  <!-- Ícones -->
+    <div style="display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+    </div>
+</div>
+
 
   ## :hammer_and_wrench: Tech Stacks
   
