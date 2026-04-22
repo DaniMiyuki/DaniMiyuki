@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
       <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
     </a>
-    <p style="margin: 0; font-size: 20px;">Keep calm and code on</p>
+    <p style="margin: 0; font-size: 20px;">Keep calm and code on.............<img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/></p>
   </div>
   <!-- Ícones -->
     <div style="display: inline-block;">
