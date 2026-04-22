@@ -103,7 +103,7 @@ Here are some ideas to get you started:
    
   <a href="https://www.linkedin.com/in/dani-miyuki-464641233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ##
+##
 
   
   <div align="left">
@@ -111,5 +111,18 @@ Here are some ideas to get you started:
   > "Success is the sum of small efforts, repeated" -R Coller
 
   </div>
+
+##
+
+  <div>
+    <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
+  </div>
+  <div  align="center">
+    <img src="https://media.giphy.com/media/yjLLJou3azdeMnJxFW/giphy.gif" width="480"/>
+    <img src="https://media.giphy.com/media/Xb8DyZrvM3DgrzGjE6/giphy.gif" width="240"/>
+    <p><a href="https://giphy.com/stickers/coming-soon-khangwtm-kingkhang-Xb8DyZrvM3DgrzGjE6">via GIPHY</a></p>
+  <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=DaniMiyuki&color=green" alt="Profile Views" /></p>
+  </div>
+  
 </div>
