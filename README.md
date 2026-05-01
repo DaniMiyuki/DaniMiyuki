@@ -25,18 +25,15 @@ Here are some ideas to get you started:
 <!-- STATUS -->
 <div align="center">
   <h3 align="center">
-    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
-    Dashboard...................................................
-    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+  Dashboard...................................................
+  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
   </h3>
-  <a href="https://github.com/DaniMiyuki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=jolly"/>
-</div> 
-<br>
-<div align="center">
-  <a href="https://gist.github.com/Yizack/65c143709afa7ea612f3578c6aeec732/">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=65c143709afa7ea612f3578c6aeec732&theme=jolly" alt="Gist Card" />
+  <a href="https://github.com/DaniMiyuki/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/DaniMiyuki/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=jolly"/>
   </a>
 </div>
 
