@@ -15,27 +15,23 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"; margin: 10px;">
-  <a href="https://giphy.com/stickers/helloyogis-cute-illustration-kawaii-KAgG4cqnNRGEkMQYml">
-    <img src="https://media.giphy.com/media/KAgG4cqnNRGEkMQYml/giphy.gif" width="200" />
+  <a href="https://giphy.com/stickers/codedex-transparent-coddex-erX30mQNfhdAvWzjdt">
+    <img src="https://media.giphy.com/media/erX30mQNfhdAvWzjdt/giphy.gif" width="480" height="319" style="" frameBorder="0" allowFullScreen>
   </a>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vcenter=true&width=1000&lines=Hi,+I`m+Miyuki!!;A+Software+Engineer+Student!&color=ff3399)](https://git.io/typing-svg)
-
+<br>
 <!-- STATUS -->
 <div align="center">
-<h3 align="center">
-  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
-  Dashboard...................................................
-  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
-</h3>
-
-
+  <h3 align="center">
+    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+    Dashboard...................................................
+    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+  </h3>
   <a href="https://github.com/DaniMiyuki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMiyuki&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-<div style="display: inline_block" ><br>
 </div>
     
 <div align="center">
@@ -44,20 +40,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
- 
+<br>
+
 <div> 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div align="center"><br>
-    <h3>✨ Favorite stacks ✨</h3>
-  </div>
-  <!-- GIF -->
-  <div style="display: inline-block;">
-    <a href="https://giphy.com/stickers/starbucks-coffee-cup-cute-WPuetj9uSLIuCw6oR6">
-      <img src="https://media.giphy.com/media/WPuetj9uSLIuCw6oR6/giphy.gif" width="200" />
-    </a>
-    <p style="margin: 0; font-size: 20px;">Keep calm and code on.............<img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/></p>
-  </div>
+## 🧁 Favorite stacks
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;"><br>
   <!-- Ícones -->
     <div style="display: inline-block;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
@@ -68,6 +57,11 @@ Here are some ideas to get you started:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     </div>
+  <br>
+      <!-- GIF -->
+  <div style="display: inline-block;">
+    <p style="margin: 0; font-size: 20px;">Keep calm and code on.............<img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="35" alt="potato-hito-hitopotato"/></p>
+  </div>
 </div>
 
 
@@ -101,9 +95,18 @@ Here are some ideas to get you started:
  
  <br/>
    
-  <a href="https://www.linkedin.com/in/dani-miyuki-464641233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div>
+    <div align=center><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
+  </div>
+  <div  align="center">
+    <a href="https://giphy.com/stickers/Mriogames-mriogames-mrio-mriostudios-74YCxwgPB23IyAe0vY">
+    <img src="https://media.giphy.com/media/74YCxwgPB23IyAe0vY/giphy.gif" width="240" height="240" style="" frameBorder="0" allowFullScreen><p><a href="https://giphy.com/stickers/Mriogames-mriogames-mrio-mriostudios-74YCxwgPB23IyAe0vY">via GIPHY</a></p>
+  </a>
+  <br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=DaniMiyuki&color=green" alt="Profile Views" /></p>
+  </div>
   
-##
+  ##
 
   
   <div align="left">
@@ -113,16 +116,4 @@ Here are some ideas to get you started:
   </div>
 
 ##
-
-  <div>
-    <div align=left><img src="https://capsule-render.vercel.app/api?type=transparent&height=55&fontSize=35&fontColor=ff3399&font=Fira+Code&text=My+Project&section=header&reversal=false"/></div>
-  </div>
-  <div  align="center">
-    <img src="https://media.giphy.com/media/yjLLJou3azdeMnJxFW/giphy.gif" width="480"/>
-    <img src="https://media.giphy.com/media/Xb8DyZrvM3DgrzGjE6/giphy.gif" width="240"/>
-    <p><a href="https://giphy.com/stickers/coming-soon-khangwtm-kingkhang-Xb8DyZrvM3DgrzGjE6">via GIPHY</a></p>
-  <br>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=DaniMiyuki&color=green" alt="Profile Views" /></p>
-  </div>
-  
 </div>
