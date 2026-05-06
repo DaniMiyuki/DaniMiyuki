@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <!-- STATUS -->
 <div align="center">
   <h3 align="center">
-  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
   Dashboard...................................................
-  <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
+    <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="40"/>
   </h3>
   <a href="https://github.com/DaniMiyuki/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniMiyuki&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
